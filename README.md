@@ -1,4 +1,4 @@
-# CO456 Antichess
+# Antichess
 
 ## Group Members
 
