@@ -1,7 +1,5 @@
 # CO456 Antichess
 
-## Team: Three Big Brothers
-
 ## Group Members
 
 - Mengyu He
@@ -11,6 +9,8 @@
 ## Description
 
 CO456 Project Antichess
+
+NOTE: this project is the final project for CO456 at University of Waterloo. Please do not use any code withour proper citation.
 
 Before the start of the game, a command line ```python3 main.py (white/black)``` should be given. If the input is white, our team will play white. If the input is black, our team will play black.
 
